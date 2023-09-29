@@ -1,0 +1,27 @@
+{
+  "version": "3.57.26407.0",
+  "course_id": "5aD4nz79PHD_course_id",
+  "title": "5 stages dragndrop",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qbxYYJuCIb",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 431
+  },
+  "stage": {
+    "width": 960,
+    "height": 360
+  }
+}
